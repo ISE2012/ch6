@@ -1,0 +1,5 @@
+John Snow
+Albert Einstein
+Andrew Ng
+Ian Goodfellow
+Geoffrey Hinton

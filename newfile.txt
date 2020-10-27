@@ -1,0 +1,3 @@
+Something else!
+This will be added!
+This other sentence will be added in new line!
